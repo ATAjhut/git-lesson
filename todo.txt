@@ -1,0 +1,5 @@
+create this 
+Add a file
+Have a lookm a git history
+Hands on exercise
+pull from remote
